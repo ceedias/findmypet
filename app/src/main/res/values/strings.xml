@@ -1,5 +1,5 @@
 <resources>
     <string name="app_name">FindMyPetTCC</string>
-    <string name="hint_email">Seu email</string>
-    <string name="hint_password">Sua senha</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
 </resources>
