@@ -2,4 +2,10 @@
     <string name="app_name">FindMyPetTCC</string>
     <string name="hint_email">Email</string>
     <string name="hint_password">Senha</string>
+    <string name="item_menu_buscar">Buscar</string>
+    <string name="item_menu_outro">Outro</string>
+    <string name="item_menu_outro2">Mais Outro</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+
 </resources>

@@ -6,10 +6,9 @@
     android:layout_height="match_parent"
     android:background="@drawable/fundo2"
     android:orientation="vertical"
-    tools:context=".MainActivity"
-    >
+    tools:context=".MainActivity">
 
-    <include layout="@layout/toolbar"/>
+    <include layout="@layout/toolbar_simples"/>
 
     <android.support.v7.widget.AppCompatImageView
         android:layout_width="match_parent"

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+
+
+    <item android:title="Meu Pet Perdido"
+        android:id="@+id/meu_pet_perdido"
+        android:icon="@drawable/ic_pet"/>
+
+    <item android:title="Pets da Região"
+        android:id="@+id/meu_mapa"
+        android:icon="@drawable/ic_location"/>
+
+    <item android:title="Meu Perfil"
+        android:id="@+id/meu_perfil"
+        android:icon="@drawable/ic_perfil"/>
+
+    </group>
+
+</menu>
+

@@ -25,6 +25,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        toolbar = findViewById(R.id.toolbar);
+        setSupportActionBar(toolbar);
+
         editTextEmail = findViewById(R.id.et_email);
         editLayoutEmail = findViewById(R.id.txtlayout_email);
 

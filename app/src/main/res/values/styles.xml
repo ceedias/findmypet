@@ -6,10 +6,15 @@
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
+        <item name="popupTheme">@style/PopupMenuTheme</item>
     </style>
 
     <style name="btnLogar" parent="Widget.AppCompat.Button.Colored">
         <item name="android:backgroundTint">@color/colorPrimaryDark</item>
+    </style>
+
+    <style name="PopupMenuTheme" parent="ThemeOverlay.AppCompat.Light">
+        <item name="android:background">@android:color/white</item>
     </style>
 
 </resources>
